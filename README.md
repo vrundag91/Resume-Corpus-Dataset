@@ -1,5 +1,4 @@
 <h1>Resume Corpus Dataset</h1>
-<hr>
 <p>This is the official repository of the Resume Corpus dataset, a meticulously curated collection designed specifically for advancing research and applications in Named Entity Recognition (NER). This dataset is a valuable asset for machine learning practitioners, data scientists, and NER enthusiasts, offering:</p>
 <ul>
   <li><b>Extensive Coverage:</b> Encompassing a wide array of resumes across various industries and roles, providing a diverse and comprehensive dataset for robust model training.</li>
